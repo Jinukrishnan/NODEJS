@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    padding: 8px;
+    margin: 8px;
+}
+
+
+table,th,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 8px;
+
+}
